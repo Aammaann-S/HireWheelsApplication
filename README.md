@@ -6,12 +6,13 @@ Request:
  
 Response:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/48cc4044-4be8-4f3d-b83d-16a391902e7b)
- ![Uploading image.png…]()
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/4eefde66-835e-4a14-9ce0-9e7342118b6e)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/434a039e-d809-4a62-a05a-303789d606c6)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/0239ebdd-a538-4600-8a32-eb1d88b276b7)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/2100aa4c-766b-482c-99ad-a98cb20a458b)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/b20be0e8-be4d-49d6-a14c-b780d8a78a9b)
 
 
-
- 
 6.2
 
 Request:
@@ -44,64 +45,5 @@ Request:
 
 Response:
 
-{
-    "bookingId": 28,
-    "pickupDate": "2020-10-28",
-    "dropoffDate": "2020-10-30",
-    "bookingDate": "2020-10-16",
-    "amount": 100.0,
-    "location": {
-        "locationId": 1,
-        "locationName": "c8",
-        "address": "Sec 73",
-        "pincode": "122004",
-        "city": {
-            "cityId": 1,
-            "cityName": "Gurgaon"
-        }
-    },
-    "vehicle": {
-        "vehicleId": 3,
-        "vehicleModel": "AMG",
-        "vehicleNumber": "INDH 345",
-        "color": "Blue",
-        "availabilityStatus": 0,
-        "vehicleImageUrl": "https://www.mercedes-amg.com/en/ world-of-amg/news/press-information/mercedes-amg- gt-black-series-record-lap.html",
-        "vehicleSubcategory": {
-            "vehicleSubcategoryId": 7,
-            "vehicleSubcategoryName": "Luxury SUV",
-            "pricePerDay": 120.0,
-            "vehicleCategory": {
-                "vehicleCategoryId": 3,
-                "vehicleCategoryName": "SUV"
-            }
-        },
-        "location": {
-            "locationId": 1,
-            "locationName": "c8",
-            "address": "Sec 73",
-            "pincode": "122004",
-            "city": {
-                "cityId": 1,
-                "cityName": "Gurgaon"
-            }
-        },
-        "fuelType": {
-            "fuelTypeId": 2,
-            "fuelType": "Diesel"
-        }
-    },
-    "user": {
-        "userId": 1,
-        "firstName": "Aman",
-        "lastName": "Sharma",
-        "email": "aman@mail.com",
-        "mobileNo": "9810556171",
-        "walletMoney": 18800.0,
-        "role": {
-            "roleId": 1,
-            "roleName": "Admin"
-        }
-    }
-}
-
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/dc64c153-952e-444f-838e-8cae6ca19fa1)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/7cf867c7-87fd-4303-b82f-4fbe8d7b60d2)
