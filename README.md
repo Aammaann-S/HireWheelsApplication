@@ -46,4 +46,4 @@ Request:
 Response:
 
  ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/dc64c153-952e-444f-838e-8cae6ca19fa1)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/7cf867c7-87fd-4303-b82f-4fbe8d7b60d2)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/35ff701b-e255-4fd4-9ade-42e8355bb92a)
