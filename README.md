@@ -6,44 +6,37 @@ Request:
  
 Response:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/4eefde66-835e-4a14-9ce0-9e7342118b6e)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/434a039e-d809-4a62-a05a-303789d606c6)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/0239ebdd-a538-4600-8a32-eb1d88b276b7)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/2100aa4c-766b-482c-99ad-a98cb20a458b)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/b20be0e8-be4d-49d6-a14c-b780d8a78a9b)
-
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/2cbab4cf-4016-4f18-8059-617a6b811fd1)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/03f76113-76f5-4b9e-a5d8-3814fce1a614)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/7c439417-336d-4d9d-9002-b9df99e4f478)
 
 6.2
 
 Request:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/cb83e7fb-3991-43c8-931e-958ad14c6227)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/1bd0af51-3238-457a-b644-5f76a104c931)
 
 Response:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/1e00aee0-9afb-4ce1-80a1-7abbed4b043e)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/f8549362-3958-46a6-af29-91fb3bcbe187)
-
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/e7ddcc6d-2801-43cb-b135-4059ba741b63) 
   
 6.3
 
 Request:
 
-  ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/37803d49-ad8f-419f-acf3-46c72c551268)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/13dee0ae-2980-41eb-946b-5f2deb2c6960)
 
 Response:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/41243b4a-4858-4247-9bbc-c22908a8483a)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/7635a3b0-b178-456e-9db9-4006ba56a12b)
-
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/e2b8c7b6-ee51-4ced-af6e-da1fed4568ad)
  
 6.4
 
 Request:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/b6ba32b4-5dd5-41db-823a-1eabb9f4917f)
-
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/44465196-ffd8-4066-9cf5-a0841df5e414)
+ 
 Response:
 
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/dc64c153-952e-444f-838e-8cae6ca19fa1)
- ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/35ff701b-e255-4fd4-9ade-42e8355bb92a)
+ ![image](https://github.com/Aammaann-S/HireWheelsApplication/assets/90821327/6766c0e2-5b4c-4f7f-8b01-c68138e75407)
+
