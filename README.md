@@ -4,6 +4,7 @@ Team Members:
 - Apoorva Garg 20csu021
 - Aryan Pruthi 20csu161
 
+Output Screenshot:
 6.1
 
 Request: 
