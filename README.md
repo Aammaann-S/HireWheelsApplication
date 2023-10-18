@@ -1,3 +1,9 @@
+Team Members:
+- Aman Sharma 20csu009
+- Anu Kumari 20csu020
+- Apoorva Garg 20csu021
+- Aryan Pruthi 20csu161
+
 6.1
 
 Request: 
